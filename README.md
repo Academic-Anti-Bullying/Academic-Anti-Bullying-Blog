@@ -1,6 +1,6 @@
 ## Welcome to Anti-bullying Initiative
 
-### The Problem
+### "My PhD broke me"—bullying in academia and a call to action
 Workplace bullying strongly contributes to attrition and the mental health crisis in academia, and while some funding agencies have recently begun to acknowledge its effects and take action, there is very little support that victims receive. The most vulnerable among victims of bullying are trainees (graduate students, postdocs), research associates, untenured professors, and minority groups. This can result in reduced diversity and negatively impact the academic ecosystem in the long term. 
 
 Results from our recent international bullying survey shows that most respondents do not know how to report bullying at their university or institution. We would like this to change, and are driven and motivated to build an online resource, where individuals who have experienced bullying can anonymously share their experiences and access resources that would support them through their difficult situation. We envision this to be a mutual support-driven platform for early career researchers by early career researchers.
