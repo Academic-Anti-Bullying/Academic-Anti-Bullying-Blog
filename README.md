@@ -2,9 +2,9 @@
 # "My PhD broke me"—bullying in academia and a call to action
 ![Image](./Figure-Blog.png)
 
-Originally published on ecrLife (11/04/2019) https://ecrlife.org/bullying-in-academia-tales-from-victims-and-a-call-to-action/
+Originally published on [ECRLife] (11/04/2019) https://ecrlife.org/bullying-in-academia-tales-from-victims-and-a-call-to-action/
 
-Workplace bullying—repetitive abusive, threatening, humiliating and intimidating behaviour—is on the rise globally https://www.sciencedirect.com/science/article/pii/S18770428130179 (url). And matters are worse in academia. In the UK, for example, up to 42% of academics report being bullied in the workplace while the national average across all professions ranges from just 10-20%.  
+Workplace [bullying] (https://www.sciencedirect.com/science/article/pii/S18770428130179) —repetitive abusive, threatening, humiliating and intimidating behaviour—is on the rise globally. And matters are worse in academia. In the UK, for example, up to 42% of academics report being bullied in the workplace while the national average across all professions ranges from just 10-20%.  
 
 Why do bullies bully? According to researchers from Brock University in Canada the goals of bullying come from internal motivations and desires, which can be conscious or not. Bullying takes many forms: the malicious mistreatment of someone including persistent criticism, inaccurate accusations, exclusion and ostracism, public humiliation, the spreading of rumors, setting people up to fail, or overloading someone with work. Bullying is different from accidental or reactive aggression, since it is goal-directed meaning that the purpose is to harm someone when there is a power imbalance.
 
