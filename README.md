@@ -1,6 +1,8 @@
 
-### "My PhD broke me"—bullying in academia and a call to action
+#"My PhD broke me"—bullying in academia and a call to action
 ![Image](./Figure-Blog.png)
+
+Originally published on ecrLife (11/04/2019) https://ecrlife.org/bullying-in-academia-tales-from victims-and-a-call-to-action/
 
 Workplace bullying—repetitive abusive, threatening, humiliating and intimidating behaviour—is on the rise globally. And matters are worse in academia. In the UK, for example, up to 42% of academics report being bullied in the workplace while the national average across all professions ranges from just 10-20%.  
 
