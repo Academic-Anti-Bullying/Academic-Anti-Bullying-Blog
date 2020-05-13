@@ -1,4 +1,3 @@
-## Welcome to Anti-bullying Initiative
 
 ### "My PhD broke me"—bullying in academia and a call to action
 ![Image](./Figure-Blog.png)
