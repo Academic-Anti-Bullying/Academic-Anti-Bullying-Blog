@@ -10,7 +10,7 @@ Why do bullies bully? According to researchers from Brock University [Brock Univ
 
 While anyone is at risk of being bullied in academia, research [research](https://journals.sagepub.com/doi/full/10.1177/1478210316639417) has found that some of us are more vulnerable compared to others. For example, early career researchers (ECRs), including trainees (e.g. graduate students, postdocs), minority groups, adjunct professors, research associates, and untenured professors are at a higher risk to experience bullying. Employees [Employees](https://link.springer.com/article/10.1007/s10672-012-9193-7) with more years in a job report feeling less bullied than others subordinate to them, meaning that junior members of a research group or Faculty may be at greater risk of bullying.
 
-_Italic_The existence of sharp power differentials is a major factor in workplace bullying in academia
+_Italic_The existence of sharp power differentials is a major factor in workplace bullying in academia_Italic_
 
 These specific groups are more vulnerable to bullying in academia than others because of the existence of sharp [power differentials](https://journals.sagepub.com/doi/abs/10.1177/0886260513505708?journalCode=jiva), a major contributing factor to bullying in the workplace. For [example](https://journals.sagepub.com/doi/abs/10.1177/1045159514558409), men and supervisors of large successful research groups are observed to perpetrate bullying behavior more often than women and other minorities, though exceptions do exist. Other research has shown that the pressure associated with publishing, getting research funding, and lack of leadership and people management training in science may also contribute to bullying.
 
@@ -18,7 +18,7 @@ In some cases, principal investigators (PI) [can also](https://link.springer.com
 
 To highlight that bullying can take different forms and occur at all career stages, we include here four anonymous testimonials from victims of academic bullying in the life sciences:
 
-**Bold**International Female PhD Student
+**Bold**International Female PhD Student**Bold**
 I got pregnant during my PhD and I was told it was not an issue. However, during the course of my pregnancy, I was removed from my projects and left out of discussions about the work that needed to be done. When I asked for an explanation, I was told that science could not wait for me while I was pregnant, even though I was eager to work, and the law permitted me to do so. After my child was born, I was made to return to work after just three weeks, while legally I was permitted up to a year off work.
 
 In the lab, I was given bits and pieces of others’ projects and not permitted to work on my own project. I worked without complaining but this took a toll on my emotional health with time. It was after my then-toddler son broke his arm that everything got worse. I needed to take a week off for his hospital stay, but my supervisor called me to his office and told me that I was a useless researcher and that I didn’t belong in science, and then he fired me. I knew it was illegal for him to do so, but I didn’t want to fight him because I was dependent on him to finish my PhD. I met with him after a week and he told me that I could work, but without pay, to make up for the duration of my pregnancy when I was paid. I did as I was told for the next six months, and somehow with the support of my husband and my best friend, was able to graduate and leave. I now have a permanent faculty position at a university in my home country, but my PhD broke me.
