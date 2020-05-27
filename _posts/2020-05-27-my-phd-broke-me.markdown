@@ -1,15 +1,13 @@
+---
+layout: post
+title:  "My PhD broke me —bullying in academia and a call to action"
+date:   2020-05-27 09:33:01 -0400
+categories: jekyll update
+---
 
-# "My PhD broke me"—bullying in academia and a call to action
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
 
-![Image](./Figure-Blog.png)
+![Image](/assets/Figure-Blog.png)
 
 Originally published on [ECRLife](https://ecrlife.org/bullying-in-academia-tales-from-victims-and-a-call-to-action/) on November 4, 2019.
 
