@@ -1,3 +1,6 @@
+## This is a video of what academic bullying can look like.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HNGDcXXSjJk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # "My PhD broke me"—bullying in academia and a call to action
 ![Image](./Figure-Blog.png)
