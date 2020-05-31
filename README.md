@@ -58,3 +58,7 @@ Apart from institutional actions, bottom-up approaches are also available, such 
 A [study](https://link.springer.com/article/10.1007/s10551-013-2008-4) of whistleblowers found that 71% of employees tend not to directly report wrongdoing as the perceived personal cost is higher than the perceived reward. People tend to feel that personal costs may be higher if reporting happens through face-to-face meetings with authorities. Hence, anonymous reporting channels are needed.
 
 Bullying is an entrenched problem in academia, supported by workplaces with power differentials. Combating bullying is a challenging task at multiple levels and over the next year a group of us eLife Community Ambassadors will embark on an initiative to shine a light on the problem, investigate its root causes and eventually formulate a set of universal measures to tackle bullying in the workplace and give relief to its victims. Stay tuned for more on our progress!
+
+## License
+
+This work is licensed under a Creative Commons Attribution 4.0 (cc-by-4.0) - please attribute to 'eLife Community Ambassadors Anti-bullying Initative 2019-2020.'
